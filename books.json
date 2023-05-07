@@ -1,0 +1,33 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 9.99,
+      "description": "The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan."
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 7.99,
+      "description": "The story of young Scout Finch and her father, lawyer Atticus Finch, as they navigate the racial tensions of their small Alabama town."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 6.99,
+      "description": "The classic tale of the lively and opinionated Elizabeth Bennet and her romance with the wealthy Mr. Darcy."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 8.99,
+      "description": "The story of Winston Smith, a man living in a totalitarian society, and his struggle to preserve his humanity and individuality."
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 7.99,
+      "description": "The story of Holden Caulfield, a teenage boy grappling with his identity and place in the world."
+    }
+]
+  
